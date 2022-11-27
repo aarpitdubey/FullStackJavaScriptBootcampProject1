@@ -1,5 +1,3 @@
-<?php
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +8,7 @@
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
+<?php
     <nav>
         <ul>
             <li> <img src="./images/logo.png" alt="Calm Logo"> </li>
@@ -40,8 +39,6 @@
             </div>
         </div>
     </main>
-
+?>
 </body>
 </html>
-
-?>
