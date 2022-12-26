@@ -62,7 +62,7 @@ main {
     border-radius: 10px;
 }
 
-button : hover {
+.leftmain button : hover {
     padding: 15px 20px;
     border: none;
     background-color: blue;
