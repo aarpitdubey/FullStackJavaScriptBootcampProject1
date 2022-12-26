@@ -62,13 +62,9 @@ main {
     border-radius: 10px;
 }
 
-.leftmain button : hover {
-    padding: 15px 20px;
-    border: none;
+.leftmain button:hover {
     background-color: blue;
     color: black;
-    font-weight: 500;
-    border-radius: 10px;
 }
 
 .rightmain div img{
