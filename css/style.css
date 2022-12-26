@@ -63,8 +63,8 @@ main {
 }
 
 .leftmain button:hover {
-    background-color: blue;
-    color: black;
+    background-color: orange;
+    color: #fff;
 }
 
 .rightmain div img{
